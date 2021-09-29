@@ -10,7 +10,6 @@ Implement privilege of students to ensure they are also able to use it to keep t
 
 
 **How to use**
-
 To create relations:
 Copy all the code beside the Drop table commands from create.sql file to create our relations. 
 If desire to reset all our relations, simply copy all the codes from create.sql file into the query tool and run it.
