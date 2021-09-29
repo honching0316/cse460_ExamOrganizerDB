@@ -9,7 +9,7 @@ Allow instructor to insert and update exam record for students, BCNF design allo
 Implement privilege of students to ensure they are also able to use it to keep track of their exams as well but without permission to modify any data within the database.
 
 
-**How to use**
+**How to use** <br />
 To create relations:
 Copy all the code beside the Drop table commands from create.sql file to create our relations. 
 If desire to reset all our relations, simply copy all the codes from create.sql file into the query tool and run it.
